@@ -25,3 +25,6 @@ replay_pid*
 
 # JetBrains IDE Files
 .idea
+
+# Toolchain version for jenv
+.java-version
