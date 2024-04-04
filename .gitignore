@@ -28,3 +28,6 @@ replay_pid*
 
 # Toolchain version for jenv
 .java-version
+
+# Ignore build artifacts from Maven or Gradle Java projects
+target/
